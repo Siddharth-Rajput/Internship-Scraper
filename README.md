@@ -23,7 +23,7 @@ The Packages that we need are:
 
 ```
 1. git clone 
-2. python -m pip install requirement.txt
+2. python -m pip install requirement
 3. Now configure the code according your use
 ```
 
