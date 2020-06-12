@@ -52,7 +52,8 @@ IMAGE
 ```
 
 ### How to run the tool
-#### Just click on the main.py and sit back and enjoy all your favorite internship in terminal. 
+#### Just click on the main.py and sit back and enjoy all your favorite internship in terminal.
+*Suggestion: Just create a desktop shortcut for instant use.*
 
 ```
 IMAGE
