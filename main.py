@@ -4,6 +4,22 @@ import colorama
 from colorama import Fore, Back, Style
 colorama.init(autoreset=True)
 
+def Banner():
+    print('''
+        
+
+  ___           _                      _     _          ____                                 
+ |_ _|_ __  ___| |_ ___ _ __ _ __  ___| |__ (_)_ __    / ___|  ___ _ __ __ _ _ __   ___ _ __ 
+  | || '_ \/ __| __/ _ | '__| '_ \/ __| '_ \| | '_ \   \___ \ / __| '__/ _` | '_ \ / _ | '__|
+  | || | | \__ | ||  __| |  | | | \__ | | | | | |_) |   ___) | (__| | | (_| | |_) |  __| |   
+ |___|_| |_|___/\__\___|_|  |_| |_|___|_| |_|_| .______|____/ \___|_|  \__,_| .__/ \___|_|   
+                                              |_| |_____|                   |_|              
+
+Made By :
+Siddharth Rajput  
+                                   ''')
+
+Banner()
 cookies = open('cookies.txt', 'r')
 nono = cookies.read().split(":")
 head = {nono[0]:nono[1]}
