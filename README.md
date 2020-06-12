@@ -9,7 +9,7 @@ This tool just sits on you desktop and when clicked fetches all you preffered in
 
 ### Prerequisites
 
-Python 2 or 3 any will do the work.
+Python 2 any will do the work.
 
 ```
 The Packages that we need are:
