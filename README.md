@@ -1,11 +1,11 @@
 # Internship Scapper
 
-As all of you know its the internship season and the most popular place to find it is internshala.com. One fin day an idea came into my mind that why should we visit the site again and again instead we can scape our preferred intership with python and that day this tool was born. Enough of this story telling lets get into the details
+As all of you know its the internship season and the most popular place to find it is internshala.com. One fin day an idea came into my mind that why should we visit the site again and again instead we can scape our preferred(favourite) intership with python and that day this tool was born. Enough of this story telling lets get into the details.
 
 ## What it basically does
 
 This tool just sits on you desktop and when clicked fetches all you preffered internship from this page https://internshala.com/internships/matching-preferences. And displayes it in a plain terminal window with poppy text colors.
-**It also highlights the keywords that you what in internship name**
+**It also highlights the keywords that you what in internship name.**
 
 ### Prerequisites
 
@@ -23,29 +23,41 @@ The Packages that we need are:
 
 ```
 1. git clone 
-2. python -m pip install requirement
-3. Now configure the code according your use
+2. python -m pip install requirement.txt
+3. Now configure the code according your use.
 ```
 
-## Running the tests
+## Configuration
 
-Explain how to run the automated tests for this system
+This is divided into two part setting up the cookies and the keywords in the script
 
-### Break down into end to end tests
+### Setting the cookies:
 
-Explain what these tests test and why
+1. Login into you internshala account and go to this page: https://internshala.com/internships/matching-preferences
+2. Open the debugger menu of our browser and look for network tab.
+3. Hit refresh to capture the request.
+4. Look for the first request and copy the cookies header and paste in cookies.txt
+(**this because we are skiping the login step so that the tool runs in its max speed😎**)
+5. You can tweak the code according to you need its a simple one.
+```
+GIF
+```
+
+### Setting up the KeyWords.
+
+This will help to see you favourite internships in red. Like '**IOS**' then the tool will search IOS in the internship name and highligt it in RED. To Set your keywords just type it in **keywords.txt** one word in one line.
 
 ```
-Give an example
+IMAGE
 ```
 
-### And coding style tests
-
-Explain what these tests test and why
+### How to run the tool
+#### Just click on the main.py and sit back and enjoy all your favorite internship in terminal. 
 
 ```
-Give an example
+IMAGE
 ```
+
 ## Authors
 
 * **Siddharth Rajput** - (https://github.com/Siddharth-Rajput)
@@ -55,7 +67,5 @@ Give an example
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
 ## Acknowledgments
-
-* Hat tip to anyone whose code was used
 * Inspiration
 * etc
