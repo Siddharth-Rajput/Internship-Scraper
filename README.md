@@ -22,7 +22,7 @@ The Packages that we need are:
 ### Installing
 
 ```
-1. git clone 
+1. git clone https://github.com/Siddharth-Rajput/insternship-scraper
 2. python -m pip install requirement.txt
 3. Now configure the code according your use.
 ```
