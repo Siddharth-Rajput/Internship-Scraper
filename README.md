@@ -53,9 +53,7 @@ This will help to see you favourite internships in red. Like '**IOS**' then the 
 #### Just click on the main.py and sit back and enjoy all your favorite internship in terminal.
 *Suggestion: Just create a desktop shortcut of main.py for instant use.*
 
-```
-IMAGE
-```
+![alt text](https://github.com/Siddharth-Rajput/insternship-scraper/blob/master/assets/demogif.mp4)
 
 ## Authors
 
