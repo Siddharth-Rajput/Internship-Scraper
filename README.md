@@ -1,5 +1,5 @@
 # Internship Scapper 
-<img align="right" width="100" height="80" src="https://img.shields.io/github/license/Siddharth-Rajput/insternship-scraper">
+<img align="right" width="100" height="100" src="https://img.shields.io/github/license/Siddharth-Rajput/insternship-scraper">
 
 As all of you know its the internship season and the most popular place to find it is internshala.com. One fin day an idea came into my mind that why should we visit the site again and again instead we can scape our preferred(favourite) intership with python and that day this tool was born. Enough of this story telling lets get into the details.
 
