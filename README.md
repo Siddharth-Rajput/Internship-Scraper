@@ -47,9 +47,7 @@ GIF
 
 This will help to see you favourite internships in red. Like '**IOS**' then the tool will search IOS in the internship name and highligt it in RED. To Set your keywords just type it in **keywords.txt** one word in one line.
 
-```
-IMAGE
-```
+![alt text](https://github.com/Siddharth-Rajput/insternship-scraper/blob/master/assets/keywords.jpg)
 
 ### How to run the tool
 #### Just click on the main.py and sit back and enjoy all your favorite internship in terminal.
