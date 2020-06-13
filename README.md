@@ -44,7 +44,7 @@ This is divided into two part setting up the cookies and the keywords in the scr
 (**this because we are skiping the login step so that the tool runs in its max speed😎**)
 5. You can tweak the code according to you need its a simple one.
 
-[alt text](https://github.com/Siddharth-Rajput/insternship-scraper/blob/master/assets/cookieheader.gif)
+![alt text](https://github.com/Siddharth-Rajput/insternship-scraper/blob/master/assets/cookieheader.gif)
 
 ### Setting up the KeyWords.
 
