@@ -16,7 +16,9 @@ def Banner():
                                               |_| |_____|                   |_|              
 
 Made By :
-Siddharth Rajput  
+Siddharth Rajput 
+The keywords feature is still under development so till then 
+you have to manually edit the code to set your keywords 🙂 
                                    ''')
 
 Banner()
