@@ -1,5 +1,8 @@
 # Internship Scapper 
+[![Python Versions](https://img.shields.io/pypi/pyversions/yt2mp3.svg)]
 [![MIT License](https://img.shields.io/github/license/Siddharth-Rajput/insternship-scraper)](https://github.com/Siddharth-Rajput/insternship-scraper/blob/master/LICENSE)
+[![Issues](https://img.shields.io/github/issues/Siddharth-Rajput/insternship-scraper)](https://github.com/Siddharth-Rajput/insternship-scraper/issues)
+
 
 As all of you know its the internship season and the most popular place to find it is internshala.com. One fin day an idea came into my mind that why should we visit the site again and again instead we can scape our preferred(favourite) intership with python and that day this tool was born. Enough of this story telling lets get into the details.
 
