@@ -1,13 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/Siddharth-Rajput/insternship-scraper"><img src="https://github.com/Siddharth-Rajput/insternship-scraper/blob/master/assets/demogif.gif" alt="Internship_Scraper"></a>
-  <br>
-  Internship_Scraper
-  <br>
-</h1>
-<h1 align="center">
-  <br>
   Internship Scaper
+  <br>
+  <a href="https://github.com/Siddharth-Rajput/insternship-scraper"><img src="https://github.com/Siddharth-Rajput/insternship-scraper/blob/master/assets/demogif.gif" ></a>
   <br>
 </h1>
 
