@@ -44,7 +44,7 @@ with requests.Session() as s:
 				company = Style.BRIGHT + Fore.WHITE + company
 				stipend = Style.BRIGHT + Fore.WHITE + stipend
 				return name, company, stipend
-			
+			""" Add your keywords in this section """
 			if "devops".lower() in name.lower(): edited = want(name, company, stipend)
 			elif "testing".lower() in name.lower(): edited = want(name, company, stipend)
 			elif "development".lower() in name.lower(): edited = want(name, company, stipend)
