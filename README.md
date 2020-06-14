@@ -1,4 +1,4 @@
-# Internship Scapper 
+# Internship Scaper 
 [![Python Versions](https://img.shields.io/badge/python-v2.7-blue)]()
 [![MIT License](https://img.shields.io/github/license/Siddharth-Rajput/insternship-scraper)](https://github.com/Siddharth-Rajput/insternship-scraper/blob/master/LICENSE)
 [![Issues](https://img.shields.io/github/issues/Siddharth-Rajput/insternship-scraper)](https://github.com/Siddharth-Rajput/insternship-scraper/issues)
