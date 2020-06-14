@@ -4,7 +4,7 @@
   <br>
 </h1>
 
-<h4 align="center">All your internships in terminal.</h4>
+<h3 align="center">All your internships in terminal.</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/python-v2.7-blue">
