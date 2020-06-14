@@ -5,7 +5,6 @@
   <a href="https://github.com/Siddharth-Rajput/insternship-scraper"><img src="https://github.com/Siddharth-Rajput/insternship-scraper/blob/master/assets/demogif.gif" ></a>
   <br>
 </h1>
-
 <h3 align="center">All your internships in terminal.</h3>
 
 <p align="center">
