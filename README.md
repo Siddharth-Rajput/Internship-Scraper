@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  Internship Scaper
+  Internship Scraper
   <br>
   <a href="https://github.com/Siddharth-Rajput/insternship-scraper"><img src="https://github.com/Siddharth-Rajput/insternship-scraper/blob/master/assets/demogif.gif" ></a>
   <br>
