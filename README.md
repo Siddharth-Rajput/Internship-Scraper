@@ -46,7 +46,7 @@ The Packages that we need are:
 
 ## Configuration
 
-This is divided into two part setting up the cookies and the keywords in the script
+This is divided into two part setting up the cookies and the keywords in the script.
 
 ### Setting the cookies:
 
